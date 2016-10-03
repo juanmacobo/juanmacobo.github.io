@@ -22,5 +22,6 @@ Ingles: Nivel B1
 Titulo Bachillerato 
 
 ## Información Adicional
-Carnet coche y a2 moto. Disponibilidad Nacional
+Carnet coche y a2 moto. 
+Disponibilidad Nacional
 
