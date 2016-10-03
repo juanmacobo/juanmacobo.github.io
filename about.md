@@ -8,7 +8,12 @@ tagline: Curriculum Vitae
 Técnico Superior Administración de Sistemas Informáticos en Red (Fecha fin: curso 2018)
 
 ## Formación técnica
-Administrar distintos gestores de BBDD: Oracle, Postgres, Mysql, MongoDB.
+Administrar distintos gestores de BBDD: 
+* Oracle
+* Postgres
+* Mysql
+* MongoDB.
+
 Gestión sistemas Linux y Windows.
 
 ## Experiencia Laboral
