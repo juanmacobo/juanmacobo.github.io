@@ -9,10 +9,11 @@ Técnico Superior Administración de Sistemas Informáticos en Red (Fecha fin: c
 
 ## Formación técnica
 Administrar distintos gestores de BBDD
- - Oracle
- - Postgres
- - Mysql
- - MongoDB
+
+  - Oracle
+  - Postgres
+  - Mysql
+  - MongoDB
 
 Gestión sistemas Linux y Windows.
 
